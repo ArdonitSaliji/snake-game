@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/snake-game/static/css/main.b0bd8845.css",
+    "main.js": "/snake-game/static/js/main.ab62ce01.js",
+    "static/js/787.786e9145.chunk.js": "/snake-game/static/js/787.786e9145.chunk.js",
+    "static/media/purple-apple.png": "/snake-game/static/media/purple-apple.29f4446a7a11bb8b1939.png",
+    "static/media/red-apple.png": "/snake-game/static/media/red-apple.1185005dc6e39fd7f50f.png",
+    "index.html": "/snake-game/index.html",
+    "main.b0bd8845.css.map": "/snake-game/static/css/main.b0bd8845.css.map",
+    "main.ab62ce01.js.map": "/snake-game/static/js/main.ab62ce01.js.map",
+    "787.786e9145.chunk.js.map": "/snake-game/static/js/787.786e9145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0bd8845.css",
+    "static/js/main.ab62ce01.js"
+  ]
+}
